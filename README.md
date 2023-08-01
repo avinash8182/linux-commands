@@ -27,3 +27,7 @@ wc -l = word count
 user management ;
 ----------------
 useradd 
+file permission ;
+==============
+chmod  - change permissions of the file .
+4 read - 2 write -1 execute
